@@ -29,6 +29,16 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 
 ---
 
+## 🎓 Certifications
+
+- [Databricks Certified Machine Learning Engineer Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+- [Databricks Certified Generative AI Engineer Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+- [Databricks Certified Data Analyst Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned)
+- [Tableau Desktop Specialist](https://www.credly.com/earner/earned)
+
+---
+
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedaamiruddin)
