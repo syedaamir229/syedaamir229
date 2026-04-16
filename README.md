@@ -1,8 +1,8 @@
 # Hi, I'm Syed Aamir 👋
 
-**Data & AI Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production GenAI applications.
+**Data & AI Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
 
-I work across the full data stack: from wrangling and modelling data to deploying ML models and AI-powered services. My current focus is on **Databricks**, **FastAPI**, and **LLM-based automations**.
+I build AI-powered systems that go beyond dashboards - automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
 
 ---
 
@@ -22,7 +22,7 @@ I work across the full data stack: from wrangling and modelling data to deployin
 ## 🚀 Featured Work
 
 - **[genai_launchpad_databricks](https://github.com/syedaamir229/genai_launchpad_databricks)** - Production GenAI template on Databricks: FastAPI, async Lakeflow jobs, Delta persistence and MLflow tracing pre-wired.
-- **[ai-assistant](https://github.com/syedaamir229/ai-assistant)** - A personal AI assistant built in Python.
+- **[ai-assistant](https://github.com/syedaamir229/ai-assistant)** - AI Executive Assistant that monitors email and calendar via Nylas webhooks, processes events with async Celery workers, and takes closed-loop actions using AI. Built on FastAPI and PostgreSQL.
 - **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)** - BI dashboards spanning supply chain, finance, and operations analytics.
 
 ---
