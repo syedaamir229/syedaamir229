@@ -13,7 +13,10 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
