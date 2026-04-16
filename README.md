@@ -34,8 +34,8 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163794950" width="120" alt="Databricks Certified Machine Learning Engineer Associate"/>](https://www.credential.net/02673050-d7f1-49b7-8d03-bcc16338a81d)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159431643" width="120" alt="Databricks Certified Generative AI Engineer Associate"/>](https://www.credential.net/1d1f551d-7128-45d6-8677-8cf949102440)
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157099023" width="120" alt="Databricks Certified Data Analyst Associate"/>](https://www.credential.net/db3174aa-8703-4e9d-8e55-60737ecafd44)
-[![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://www.credly.com/earner/earned)
-[![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau-Desktop_Specialist-E97627?style=flat&logo=tableau&logoColor=white)](https://www.credly.com/earner/earned)
+[<img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" alt="Microsoft Certified: Azure Data Fundamentals"/>](https://www.credly.com/badges/e38119d9-5d32-4857-aa05-150e6dd5e23f)
+[<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width="120" alt="Tableau Desktop Specialist"/>](https://www.credly.com/badges/1e24ad00-28b1-4501-b8fb-e9d2b860a29f)
 
 ---
 
