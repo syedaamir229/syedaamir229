@@ -22,8 +22,8 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 ## 🚀 Featured Work
 
 - **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)** - BI dashboards spanning supply chain, finance, and operations analytics.
-- **[Semantic Layer & KPI Framework](https://syedaamir.dev/portfolio/projects/semantic-layer/)** - Unified KPI definitions across 3 data sources and 4 business domains for a MENA OTT platform. Eliminated metric disputes and reduced report build time by 60-70%.
-- **[CRM Campaign Automation](https://syedaamir.dev/portfolio/projects/jarvis/)** - Recommendation engine processing millions of profiles daily across 4 targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
+- **[Semantic Layer & KPI Framework](https://syedaamir229.github.io/portfolio/portfolio/projects/semantic-layer/)** - Unified KPI definitions across 3 data sources and 4 business domains for a MENA OTT platform. Eliminated metric disputes and reduced report build time by 60-70%.
+- **[CRM Campaign Automation](https://syedaamir229.github.io/portfolio/portfolio/projects/jarvis/)** - Recommendation engine processing millions of profiles daily across 4 targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
 - **[GenAI Launchpad](https://github.com/syedaamir229/genai_launchpad_databricks)** - Production GenAI template on Databricks: FastAPI, async Lakeflow jobs, Delta persistence and MLflow tracing pre-wired.
 - **[AI Executive Assistant](https://github.com/syedaamir229/ai-assistant)** - AI Executive Assistant that monitors email and calendar via Nylas webhooks, processes events with async Celery workers, and takes closed-loop actions using AI. Built on FastAPI and PostgreSQL.
 
