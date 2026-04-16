@@ -31,11 +31,11 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 
 ## 🎓 Certifications
 
-- [Databricks Certified Machine Learning Engineer Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
-- [Databricks Certified Generative AI Engineer Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
-- [Databricks Certified Data Analyst Associate](https://www.credential.net/profile/syedaamiruddin719054/wallet)
-- [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/earner/earned)
-- [Tableau Desktop Specialist](https://www.credly.com/earner/earned)
+[![Databricks ML Engineer](https://img.shields.io/badge/Databricks-ML_Engineer_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+[![Databricks GenAI Engineer](https://img.shields.io/badge/Databricks-GenAI_Engineer_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+[![Databricks Data Analyst](https://img.shields.io/badge/Databricks-Data_Analyst_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+[![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://www.credly.com/earner/earned)
+[![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau-Desktop_Specialist-E97627?style=flat&logo=tableau&logoColor=white)](https://www.credly.com/earner/earned)
 
 ---
 
