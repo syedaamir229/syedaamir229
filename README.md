@@ -21,19 +21,19 @@ I build AI-powered systems that go beyond dashboards - automating decisions, int
 
 ## 🚀 Featured Work
 
-- **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)** - BI dashboards spanning supply chain, finance, and operations analytics.
-- **[Semantic Layer & KPI Framework](https://syedaamir229.github.io/portfolio/portfolio/projects/semantic-layer/)** - Unified KPI definitions across 3 data sources and 4 business domains for a MENA OTT platform. Eliminated metric disputes and reduced report build time by 60-70%.
-- **[CRM Campaign Automation](https://syedaamir229.github.io/portfolio/portfolio/projects/jarvis/)** - Recommendation engine processing millions of profiles daily across 4 targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
-- **[GenAI Launchpad](https://github.com/syedaamir229/genai_launchpad_databricks)** - Production GenAI template on Databricks: FastAPI, async Lakeflow jobs, Delta persistence and MLflow tracing pre-wired.
 - **[AI Executive Assistant](https://github.com/syedaamir229/ai-assistant)** - AI Executive Assistant that monitors email and calendar via Nylas webhooks, processes events with async Celery workers, and takes closed-loop actions using AI. Built on FastAPI and PostgreSQL.
+- **[GenAI Launchpad](https://github.com/syedaamir229/genai_launchpad_databricks)** - Production GenAI template on Databricks: FastAPI, async Lakeflow jobs, Delta persistence and MLflow tracing pre-wired.
+- **[CRM Campaign Automation](https://syedaamir229.github.io/portfolio/portfolio/projects/jarvis/)** - Recommendation engine processing millions of profiles daily across 4 targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
+- **[Semantic Layer & KPI Framework](https://syedaamir229.github.io/portfolio/portfolio/projects/semantic-layer/)** - Unified KPI definitions across 3 data sources and 4 business domains for a MENA OTT platform. Eliminated metric disputes and reduced report build time by 60-70%.
+- **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)** - BI dashboards spanning supply chain, finance, and operations analytics.
 
 ---
 
 ## 🎓 Certifications
 
-[![Databricks ML Engineer](https://img.shields.io/badge/Databricks-ML_Engineer_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
-[![Databricks GenAI Engineer](https://img.shields.io/badge/Databricks-GenAI_Engineer_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
-[![Databricks Data Analyst](https://img.shields.io/badge/Databricks-Data_Analyst_Associate-FF3621?style=flat&logo=databricks&logoColor=white)](https://www.credential.net/profile/syedaamiruddin719054/wallet)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163794950" width="120" alt="Databricks Certified Machine Learning Engineer Associate"/>](https://www.credential.net/02673050-d7f1-49b7-8d03-bcc16338a81d)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159431643" width="120" alt="Databricks Certified Generative AI Engineer Associate"/>](https://www.credential.net/1d1f551d-7128-45d6-8677-8cf949102440)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157099023" width="120" alt="Databricks Certified Data Analyst Associate"/>](https://www.credential.net/db3174aa-8703-4e9d-8e55-60737ecafd44)
 [![Azure Data Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Data_Fundamentals-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://www.credly.com/earner/earned)
 [![Tableau Desktop Specialist](https://img.shields.io/badge/Tableau-Desktop_Specialist-E97627?style=flat&logo=tableau&logoColor=white)](https://www.credly.com/earner/earned)
 
