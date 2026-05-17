@@ -1,33 +1,71 @@
-# Hi, I'm Syed Aamir 👋
+# Syed Aamir
 
 **Data & AI Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
 
-I build AI-powered systems that go beyond dashboards - automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
+I build AI-powered systems that go beyond dashboards: automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
+
+Portfolio: [syedaamir229.github.io](https://syedaamir229.github.io)
 
 ---
 
-## ⚙️ Tech Stack
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U1FMPC90aXRsZT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTIgMkM3IDIgMyA0IDMgNi41djExQzMgMjAgNyAyMiAxMiAyMnM5LTIgOS00LjV2LTExQzIxIDQgMTcgMiAxMiAyem0wIDJjNC40IDAgNyAxLjcgNyAyLjVTMTYuNCA5IDEyIDkgNSA3LjMgNSA2LjUgNy42IDQgMTIgNHptNyAxMy41YzAgLjgtMi42IDIuNS03IDIuNXMtNy0xLjctNy0yLjV2LTEuN0M2LjcgMTYuNyA5LjIgMTcuNSAxMiAxNy41czUuMy0uOCA3LTEuN3YxLjd6bTAtNWMwIC44LTIuNiAyLjUtNyAyLjVzLTctMS43LTctMi41di0xLjdjMS43LjkgNC4yIDEuNyA3IDEuN3M1LjMtLjggNy0xLjd2MS43em0wLTVDMTkgOC4zIDE2LjQgMTAgMTIgMTBzLTctMS43LTctMi41VjUuOGMxLjcuOSA0LjIgMS43IDcgMS43czUuMy0uOCA3LTEuN3YxLjd6Ii8+PC9zdmc+&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+T3BlbkFJPC90aXRsZT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMjIuMjggOS44MmE1Ljk3IDUuOTcgMCAwMC0uNTItNC45MSA2LjA1IDYuMDUgMCAwMC02LjUxLTIuOUE2LjA3IDYuMDcgMCAwMDExLjU1LjVhNi4wMiA2LjAyIDAgMDAtNS43NiA0LjE2IDUuOTcgNS45NyAwIDAwLTQgMi45IDYuMDUgNi4wNSAwIDAwLjc0IDcuMTIgNS45NyA1Ljk3IDAgMDAuNTIgNC45MSA2LjA1IDYuMDUgMCAwMDYuNTEgMi45IDUuOTggNS45OCAwIDAwNC40OSAyLjAxIDYuMDIgNi4wMiAwIDAwNS43Ny00LjE4IDUuOTcgNS45NyAwIDAwNC0yLjkgNi4wNSA2LjA1IDAgMDAtLjc1LTcuMTJ6TTEzLjI2IDIyLjQzYy0uODkgMC0xLjc1LS4zMS0yLjQzLS44OGwuMTItLjA3IDQuMDQtMi4zM2MuMi0uMTIuMzMtLjM0LjMzLS41OHYtNS43bDEuNzEuOTljLjAyLjAxLjAzLjAzLjA0LjA1djQuNzFhMy43MiAzLjcyIDAgMDEtMy44MSAzLjgxek00Ljk0IDE4LjY1YTMuNyAzLjcgMCAwMS0uNDUtMi41NGwuMTIuMDcgNC4wNCAyLjMzYy4yLjEyLjQ1LjEyLjY0IDBsNC45My0yLjg1djEuOTdjMCAuMDIgMCAuMDQtLjAyLjA1bC00LjA5IDIuMzZhMy43MiAzLjcyIDAgMDEtNS4xNy0xLjM5em0tMS4wOC04LjkzYTMuNyAzLjcgMCAwMTEuOTQtMS42NHY0LjgyYzAgLjI0LjEzLjQ2LjMzLjU4bDQuOTMgMi44NC0xLjcxLjk5YS4wOS4wOSAwIDAxLS4wNiAwTDUuMiAxNWEzLjcyIDMuNzIgMCAwMS0xLjM0LTUuMjh6bTE0LjA2IDMuMjdMMTMgMTAuMTVsMS43MS0uOThhLjA5LjA5IDAgMDEuMDYgMGw0LjA5IDIuMzZhMy43MiAzLjcyIDAgMDEtLjU2IDYuNzF2LTQuODJhLjY4LjY4IDAgMDAtLjM0LS41OHptMS43LTIuNTdsLS4xMi0uMDctNC4wMy0yLjM1YS42Ny42NyAwIDAwLS42NSAwbC00LjkzIDIuODVWOS44OGMwLS4wMiAwLS4wNC4wMi0uMDVsNC4wOS0yLjM2YTMuNzIgMy43MiAwIDAxNS41MiAzLjg1em0tMTAuNjggMy41M0w3LjIzIDEzYy0uMDItLjAxLS4wMy0uMDMtLjA0LS4wNVY4LjI0YTMuNzIgMy43MiAwIDAxNi4xLTIuODZsLS4xMi4wNy00LjA0IDIuMzNhLjY3LjY3IDAgMDAtLjMzLjU4bC0uMDEgNS42OXptLjkyLTJsMi4yLTEuMjcgMi4yIDEuMjd2Mi41NGwtMi4yIDEuMjctMi4yLTEuMjd2LTIuNTR6Ii8+PC9zdmc+&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white) ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U1NBUzwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01em0wIDIuM2w2LjUgMy42TDEyIDExLjUgNS41IDcuOSAxMiA0LjN6TTUgOS4zbDYgMy4zdjcuNGwtNi0zLjNWOS4zem04IDEwLjd2LTcuNGw2LTMuM3Y3LjRsLTYgMy4zeiIvPjwvc3ZnPg==&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+REFYPC90aXRsZT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNCA0aDE2djJINFY0em0yIDRoMTJsLTMgNCAzIDRINmwzLTQtMy00em0tMiA4aDE2djJINHYtMnptMi41LTZMOSAxMmwtMi41IDJMOSAxNmgxLjVMOCAxNGwyLjUtMkw4IDEwSDYuNXptMTEgMGwyLjUgMi0yLjUgMmgxLjVsMi41LTItMi41LTJoLTEuNXoiLz48L3N2Zz4=&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+UG93ZXIgQkk8L3RpdGxlPjxwYXRoIGZpbGw9IiMwMDAwMDAiIGQ9Ik00LjUgMkg3djIwSDQuNVYyem01LjUgNWgyLjV2MTVIMTBWN3ptNSAzaDIuNXYxMkgxNVYxMHoiLz48L3N2Zz4=&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VGFibGVhdTwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTExLjI1LjV2NC4yNUg4LjV2MS41aDIuNzVWMTAuNWgxLjVWNi4yNUgxNS41VjQuNzVoLTIuNzVWLjVoLTEuNXpNMy43NSA1LjVWOUgxdjEuNWgyLjc1VjE0aDEuNXYtMy41SDhWOUg1LjI1VjUuNWgtMS41em0xNC41IDBWOUgxNS41djEuNWgyLjc1VjE0aDEuNXYtMy41SDIyLjVWOWgtMi43NVY1LjVoLTEuNXpNMTEuMjUgMTMuNXY0LjI1SDguNXYxLjVoMi43NVYyMy41aDEuNXYtNC4yNUgxNS41di0xLjVoLTIuNzVWMTMuNWgtMS41eiIvPjwvc3ZnPg==&logoColor=white)
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
+
+**Data Engineering**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**BI & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![SSAS Tabular](https://img.shields.io/badge/SSAS_Tabular-CC2927?style=flat&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Data Science / ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**AI & GenAI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 🚀 Featured Work
+## Selected work
 
-- **[AI Executive Assistant](https://github.com/syedaamir229/ai-assistant)** - Closed-loop AI agent that monitors email and calendar via Nylas webhooks, processes events asynchronously (Celery + Redis), and takes actions back through the same surface. Built on FastAPI and PostgreSQL with a model-agnostic LLM layer (OpenAI / Anthropic).
-- **[GenAI Launchpad](https://github.com/syedaamir229/genai-launchpad-databricks)** - Production GenAI template on Databricks. FastAPI ingestion, async Lakeflow jobs, Delta persistence in Unity Catalog, and MLflow tracing pre-wired. Custom workflow engine built on Strategy, Chain of Responsibility, and Facade patterns - lighter than LangChain, purpose-fit for Databricks.
-- **[CRM Campaign Automation](https://syedaamir229.github.io/portfolio/portfolio/projects/jarvis/)** - Recommendation engine processing millions of profiles daily across 4 targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
-- **[Semantic Layer & KPI Framework](https://syedaamir229.github.io/portfolio/portfolio/projects/semantic-layer/)** - 100+ governed DAX measures across 4 business domains unified over 3 data sources for a MENA OTT platform. SSAS Tabular model on a Databricks Gold layer, live-connected to Power BI. Eliminated metric disputes and cut report build time by 60-70%.
-- **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)** - BI dashboards spanning supply chain, finance, and operations analytics.
+**[AI Executive Assistant](https://github.com/syedaamir229/ai-assistant)**
+
+Closed-loop AI agent that monitors email and calendar via Nylas webhooks, processes events asynchronously with Celery and Redis, and acts back through the same surface. Built on FastAPI and PostgreSQL with a model-agnostic LLM layer over OpenAI and Anthropic.
+
+**[GenAI Launchpad](https://github.com/syedaamir229/genai-launchpad-databricks)**
+
+Production GenAI template for Databricks. FastAPI ingestion, async Lakeflow jobs, Delta persistence in Unity Catalog, MLflow tracing wired in. Custom workflow engine using Strategy, Chain of Responsibility, and Facade patterns. Lighter than LangChain, purpose-fit for Databricks.
+
+**[CRM Campaign Automation](https://syedaamir229.github.io)**
+
+Recommendation engine processing millions of user profiles daily across four targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
+
+**[Semantic Layer and KPI Framework](https://syedaamir229.github.io)**
+
+Over 100 governed DAX measures across four business domains, unified over three data sources for a MENA OTT platform. SSAS Tabular model on a Databricks Gold layer, live-connected to Power BI. Eliminated metric disputes and cut report build time by 60 to 70 percent.
+
+**[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes)**
+
+BI dashboards across supply chain, finance, and operations analytics.
 
 ---
 
-## 🎓 Certifications
+## Certifications
 
 [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163794950" width="120" alt="Databricks Certified Machine Learning Engineer Associate"/>](https://www.credential.net/02673050-d7f1-49b7-8d03-bcc16338a81d) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159431643" width="120" alt="Databricks Certified Generative AI Engineer Associate"/>](https://www.credential.net/1d1f551d-7128-45d6-8677-8cf949102440) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157099023" width="120" alt="Databricks Certified Data Analyst Associate"/>](https://www.credential.net/db3174aa-8703-4e9d-8e55-60737ecafd44) [<img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" alt="Microsoft Certified: Azure Data Fundamentals"/>](https://www.credly.com/badges/e38119d9-5d32-4857-aa05-150e6dd5e23f) [<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width="120" alt="Tableau Desktop Specialist"/>](https://www.credly.com/badges/1e24ad00-28b1-4501-b8fb-e9d2b860a29f)
 
 ---
 
-## 📬 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedaamiruddin)
