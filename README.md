@@ -4,7 +4,7 @@
 
 I build AI-powered systems that go beyond dashboards: automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
 
-Portfolio: [syedaamir229.github.io](https://syedaamir229.github.io)
+Portfolio: [syedaamir.com](https://syedaamir.com)
 
 ---
 
