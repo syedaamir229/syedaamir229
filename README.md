@@ -1,6 +1,6 @@
 # Syed Aamir
 
-**Data & AI Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
+**Data & AI Solutions Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
 
 I build AI-powered systems that go beyond dashboards: automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
 
@@ -26,11 +26,11 @@ Portfolio: [syedaamir.com](https://syedaamir.com)
 
 ## Selected work
 
-- **[AI Executive Assistant](https://github.com/syedaamir229/ai-assistant):** Closed-loop AI agent that monitors email and calendar via Nylas webhooks, processes events asynchronously with Celery and Redis, and acts back through the same surface. Built on FastAPI and PostgreSQL with a model-agnostic LLM layer over OpenAI and Anthropic.
-- **[GenAI Launchpad](https://github.com/syedaamir229/genai-launchpad-databricks):** Production GenAI template for Databricks. FastAPI ingestion, async Lakeflow jobs, Delta persistence in Unity Catalog, MLflow tracing wired in. Custom workflow engine using Strategy, Chain of Responsibility, and Facade patterns. Lighter than LangChain, purpose-fit for Databricks.
-- **[CRM Campaign Automation](https://syedaamir229.github.io):** Recommendation engine processing millions of user profiles daily across four targeting scenarios. Replaced manual analyst handoffs with fully automated CRM delivery on Databricks.
-- **[Semantic Layer and KPI Framework](https://syedaamir229.github.io):** Over 100 governed DAX measures across four business domains, unified over three data sources for a MENA OTT platform. SSAS Tabular model on a Databricks Gold layer, live-connected to Power BI. Eliminated metric disputes and cut report build time by 60 to 70 percent.
-- **[Tableau Portfolio](https://public.tableau.com/app/profile/syed.aamir/vizzes):** BI dashboards across supply chain, finance, and operations analytics.
+- **[Document Copilot — Grounded Research Assistant](https://syedaamir.com/projects/document-copilot):** Plain-English questions over a document corpus, answered with citations you can verify in one click, and a hard refusal when the evidence isn't there. React, FastAPI, Supabase/pgvector, and a typed grounded agent.
+- **[CRM Campaign Automation Platform](https://syedaamir.com/projects/crm-automation):** Daily CRM campaigns that build and target themselves across millions of profiles, replacing multi-day audience handoffs with hands-off execution on Databricks.
+- **[Voice-of-Customer Intelligence Platform](https://syedaamir.com/projects/voice-of-customer):** Feedback from four social sources unified into one searchable layer anyone can question in plain language, turning hours of analyst work into seconds.
+- **[Enterprise Semantic Layer & KPI Framework](https://syedaamir.com/projects/semantic-layer):** One governed definition of every KPI, so teams stopped reconciling conflicting numbers and report build time dropped 60 to 70 percent. SSAS Tabular on a Databricks Gold layer, live-connected to Power BI.
+- **[Enterprise Data Foundation](https://syedaamir.com/projects/data-foundation):** One trusted model, feature store, and governed semantic layer across five source systems, so BI, ML, and AI build on the same numbers.
 
 ---
 
