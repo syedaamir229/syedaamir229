@@ -1,6 +1,6 @@
 # Syed Aamir
 
-**Data & AI Solutions Engineer** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
+**Data & AI Solutions Architect** based in Dubai. My journey started in BI and reporting, grew through data science and machine learning, and has now evolved into building production AI systems.
 
 I build AI-powered systems that go beyond dashboards: automating decisions, integrating with business workflows, and putting data to work without requiring someone to read a report first.
 
@@ -36,7 +36,7 @@ Portfolio: [syedaamir.com](https://syedaamir.com)
 
 ## Certifications
 
-[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163794950" width="120" alt="Databricks Certified Machine Learning Engineer Associate"/>](https://www.credential.net/02673050-d7f1-49b7-8d03-bcc16338a81d) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159431643" width="120" alt="Databricks Certified Generative AI Engineer Associate"/>](https://www.credential.net/1d1f551d-7128-45d6-8677-8cf949102440) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157099023" width="120" alt="Databricks Certified Data Analyst Associate"/>](https://www.credential.net/db3174aa-8703-4e9d-8e55-60737ecafd44) [<img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" alt="Microsoft Certified: Azure Data Fundamentals"/>](https://www.credly.com/badges/e38119d9-5d32-4857-aa05-150e6dd5e23f) [<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width="120" alt="Tableau Desktop Specialist"/>](https://www.credly.com/badges/1e24ad00-28b1-4501-b8fb-e9d2b860a29f)
+[<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163794950" width="120" alt="Databricks Certified Machine Learning Engineer Associate"/>](https://www.credential.net/02673050-d7f1-49b7-8d03-bcc16338a81d) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159431643" width="120" alt="Databricks Certified Generative AI Engineer Associate"/>](https://www.credential.net/1d1f551d-7128-45d6-8677-8cf949102440) [<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/157099023" width="120" alt="Databricks Certified Data Analyst Associate"/>](https://www.credential.net/db3174aa-8703-4e9d-8e55-60737ecafd44) [<img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" width="120" alt="Microsoft Certified: Azure Data Fundamentals"/>](https://www.credly.com/badges/e38119d9-5d32-4857-aa05-150e6dd5e23f) [<img src="https://images.credly.com/size/680x680/images/ef3e7933-f1f1-4bba-9b10-f278188c72ad/image.png" width="120" alt="Tableau Desktop Specialist"/>](https://www.credly.com/badges/1e24ad00-28b1-4501-b8fb-e9d2b860a29f) [<img src="datalumina-ai-engineer-expert.png" width="120" alt="Datalumina Certified: AI Engineer Expert"/>](https://www.credly.com/badges/20530501-9b14-494e-acc1-2c9338f005bc)
 
 ---
 
